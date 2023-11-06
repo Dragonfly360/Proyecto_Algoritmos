@@ -1,0 +1,239 @@
+Palabra: asm
+Traduccion: Ensamblador
+Significado: asm es una palabra clave que se utiliza en C++ para incorporar codigo ensamblador directamente en un programa C++.
+
+Palabra: auto
+Traduccion: Automatico
+Significado: auto es una palabra clave que se utiliza en C++ para permitir que el compilador infiera automaticamente el tipo de una variable basandose en su inicializacion.
+
+Palabra: bool
+Traduccion: Booleano
+Significado: bool es un tipo de dato en C++ que representa valores logicos. Puede tener dos valores: true (verdadero) o false (falso).
+
+Palabra: break
+Traduccion: Interrumpir
+Significado: break es una palabra clave utilizada en bucles (for, while, do-while) y en la estructura switch. En un bucle, break se utiliza para salir inmediatamente del bucle.
+
+Palabra: case
+Traduccion: Caso
+Significado: case es una palabra clave utilizada en la estructura switch. Representa una opcion o un valor que se compara con la expresion dentro del switch.
+
+Palabra: catch
+Traduccion: Capturar
+Significado: catch es una palabra clave utilizada en manejo de excepciones. Se utiliza junto con try para manejar excepciones lanzadas dentro del bloque try.
+
+Palabra: char
+Traduccion: Caracter
+Significado: char es un tipo de dato en C++ que se utiliza para representar un solo caracter, como una letra, numero o simbolo. Se almacena en un solo byte de memoria.
+
+Palabra: class
+Traduccion: Clase
+Significado: class es una palabra clave en C++ que se utiliza para definir una clase, que es una estructura de datos que puede contener datos (variables) y funciones (metodos).
+
+Palabra: const
+Traduccion: Constante
+Significado: const es una palabra clave que se utiliza en C++ para declarar constantes. Una vez que una variable se declara como const, su valor no puede ser cambiado durante la ejecucion del programa.
+
+Palabra: const_cast
+Traduccion: Desconstanteo
+Significado: const_cast es un operador en C++ que se utiliza para agregar o quitar la cualificacion const o volatile a un objeto. Permite modificar la cualificacion const de un puntero o una referencia.
+
+Palabra: continue
+Traduccion: Continuar
+Significado: continue es una palabra clave utilizada en bucles (for, while, do-while) para saltar a la siguiente iteracion del bucle sin ejecutar las instrucciones restantes en el bucle actual.
+
+Palabra: default
+Traduccion: Por defecto
+Significado: En C++, default se utiliza en la declaracion de funciones especiales de clase, como el constructor por defecto o el operador de asignacion, para indicar que se desea utilizar la implementacion predeterminada proporcionada por el compilador.
+
+Palabra: delete
+Traduccion: Eliminar
+Significado: delete se utiliza para liberar la memoria asignada dinamicamente a traves de new en C++. Tambien se utiliza en el contexto de la programacion orientada a objetos para eliminar una funcion miembro de una clase.
+
+Palabra: do
+Traduccion: Hacer
+Significado: do es una palabra clave utilizada para crear un bucle do-while. Un bucle do-while ejecuta un bloque de codigo al menos una vez y luego comprueba la condicion para decidir si seguir ejecutando el bucle.
+
+Palabra: double
+Traduccion: Doble
+Significado: double es un tipo de dato en C++ que se utiliza para almacenar numeros de punto flotante con doble precision. Se utiliza para numeros con decimales.
+
+Palabra: dynamic_cast
+Traduccion: cast dinamico
+Significado: dynamic_cast es un operador utilizado en C++ para realizar conversiones seguras entre tipos de punteros o referencias en tiempo de ejecucion en el contexto de la programacion orientada a objetos y herencia.
+
+Palabra: else
+Traduccion: entonces
+Significado: else es una palabra clave utilizada en estructuras condicionales (if) para especificar un bloque de codigo que se ejecutara si la condicion en el if no se cumple.
+
+Palabra: enum
+Traduccion: Enumeracion
+Significado: enum es una palabra clave utilizada para definir un tipo de datos que consiste en un conjunto de constantes numericas llamadas enumeradores.
+
+Palabra: explicit
+Traduccion: Explicito
+Significado: explicit se utiliza en C++ para indicar que un constructor o un operador de conversion no debe realizar conversiones automaticas implicitas.
+
+Palabra: extern
+Traduccion: Externo
+Significado: extern se utiliza para declarar una variable o una funcion que esta definida en otro lugar en el programa. Permite utilizar variables o funciones que han sido definidas en otros archivos fuente.
+
+Palabra: false
+Traduccion: Falso
+Significado: false es una palabra clave que representa un valor booleano falso en C++. Se utiliza en expresiones logicas para evaluar condiciones.
+
+Palabra: float
+Traduccion: Flotante
+Significado: float es un tipo de dato en C++ que se utiliza para almacenar numeros de punto flotante con precision simple. Se utiliza para numeros con decimales cuando la precision extendida no es necesaria.
+
+Palabra: for
+Traduccion: Para
+Significado: for es una palabra clave utilizada para crear un bucle for, que permite la ejecucion repetida de un bloque de codigo un numero especifico de veces. Se utiliza en combinacion con una inicializacion, una condicion y una expresion de iteracion.
+
+Palabra: friend
+Traduccion: Amigo
+Significado: friend es una palabra clave que se utiliza en C++ para permitir que una funcion o clase especifica tenga acceso a los miembros privados de otra clase, incluso cuando no es miembro de esa clase.
+
+Palabra: goto
+Traduccion: Ir a
+Significado: goto es una palabra clave que permite transferir el control del programa a una etiqueta especifica dentro del mismo bloque de codigo o funcion.
+
+Palabra: if
+Traduccion: Si
+Significado: if es una palabra clave utilizada para crear estructuras condicionales. Permite ejecutar un bloque de codigo si una condicion especificada es verdadera.
+
+Palabra: inline
+Traduccion: En linea
+Significado: inline es una palabra clave utilizada para sugerir al compilador que una funcion debe ser expandida en linea, lo que significa que el codigo de la funcion se inserta directamente en el lugar donde se llama, en lugar de realizar una llamada a la funcion.
+
+Palabra: int
+Traduccion: Entero
+Significado: int es un tipo de dato en C++ que se utiliza para almacenar numeros enteros. Puede contener numeros positivos, negativos o cero.
+
+Palabra: long
+Traduccion: Largo
+Significado: long es un tipo de dato que representa numeros enteros mas grandes que el tipo int. En C++, long puede contener numeros enteros mas grandes que int pero ocupa mas memoria.
+
+Palabra: mutable
+Traduccion: Mutable
+Significado: mutable es una palabra clave que se utiliza en C++ para indicar que un miembro de una clase puede ser modificado incluso si el objeto que lo contiene se declara como const.
+
+Palabra: namespace
+Traduccion: Espacio de nombres
+Significado: namespace es una palabra clave que se utiliza en C++ para agrupar un conjunto de declaraciones, variables y funciones bajo un nombre especifico.
+
+Palabra: new
+Traduccion: Nuevo
+Significado: new es un operador en C++ que se utiliza para asignar memoria dinamicamente durante el tiempo de ejecucion. Devuelve un puntero al espacio de memoria asignado.
+
+Palabra: operator
+Traduccion: Operador
+Significado: operator es una palabra clave utilizada para sobrecargar operadores en C++. Permite definir el comportamiento de los operadores existentes cuando se utilizan con objetos de una clase personalizada.
+
+Palabra: private
+Traduccion: Privado
+Significado: private es una palabra clave utilizada en C++ para especificar que los miembros de una clase (variables y funciones miembro) son accesibles solo dentro de la misma clase y no desde fuera de la clase ni desde clases derivadas.
+
+Palabra: protected
+Traduccion: Publico
+Significado: public es una palabra clave utilizada en C++ para especificar que los miembros de una clase son accesibles desde cualquier parte del programa, incluyendo fuera de la clase.
+
+Palabra: register
+Traduccion: Registro
+Significado: register es una palabra clave que se utiliza para sugerir al compilador que una variable sea almacenada en un registro del procesador para un acceso mas rapido.
+
+Palabra: reinterpret_cast
+Traduccion: reinterprete de tipo
+Significado: reinterpret_cast es un operador en C++ que se utiliza para convertir un tipo de puntero en otro tipo. Es una conversion de tipo que permite interpretar el bit pattern de un objeto de una clase como si fuera de otra clase, incluso si las clases no estan relacionadas entre si.
+
+Palabra: return
+Traduccion: Devolver
+Significado: return es una palabra clave utilizada en funciones para devolver un valor al lugar desde donde se llamo la funcion. Permite que una funcion regrese un valor al codigo que la invoco.
+
+Palabra: short
+Traduccion: Corto
+Significado: short es un tipo de dato en C++ que se utiliza para almacenar numeros enteros mas pequenos que el tipo int. short puede ocupar menos memoria que int pero puede contener un rango mas pequeno de valores enteros.
+
+Palabra: signed
+Traduccion: Con signo
+Significado: signed es una palabra clave que se utiliza con tipos de datos enteros para indicar que los numeros pueden ser positivos, negativos o cero.
+
+Palabra: sizeof
+Traduccion: Tamano
+Significado: sizeof es un operador en C++ que devuelve el tamano en bytes de un tipo de datos o una variable. Se utiliza para conocer cuanta memoria esta ocupando un tipo de datos o una estructura en particular.
+
+Palabra: static
+Traduccion: Estatico
+Significado: static es una palabra clave en C++ con multiples usos. Puede usarse para declarar variables estaticas locales que mantienen su valor entre llamadas a una funcion.
+
+Palabra: static_cast
+Traduccion: lanzamiento estatico
+Significado: static_cast es un operador utilizado en C++ para realizar conversiones de tipos seguras y explicitas.
+
+Palabra: struct
+Traduccion: Estructura
+Significado: struct es una palabra clave en C++ que se utiliza para definir una estructura de datos que puede contener tanto datos como funciones (denominadas metodos en el contexto de las estructuras).
+
+Palabra: switch
+Traduccion: Interruptor
+Significado: switch es una estructura de control en C++ que se utiliza para tomar decisiones multiples basadas en el valor de una expresion.
+
+Palabra: template
+Traduccion: plantilla
+Significado: template es una palabra clave en C++ que se utiliza para definir plantillas (templates), permitiendo a los programadores escribir codigo generico que puede funcionar con varios tipos de datos.
+
+Palabra: this
+Traduccion: Este
+Significado: this es un puntero implicito en C++ que apunta a la instancia del objeto en el cual se esta trabajando.
+
+Palabra: throw
+Traduccion: Lanzar
+Significado: throw es una palabra clave en C++ que se utiliza para lanzar una excepcion.
+
+Palabra: true
+Traduccion: Verdadero
+Significado: true es una palabra clave en C++ que representa un valor booleano verdadero. Se utiliza en expresiones logicas para evaluar condiciones.
+
+Palabra: try
+Traduccion: Intentar
+Significado: try es una palabra clave en C++ que se utiliza para definir un bloque de codigo en el cual pueden ocurrir excepciones. Se utiliza junto con catch para manejar excepciones.
+
+Palabra: typedef
+Traduccion: definicion de tipo	
+Significado: typedef es una palabra clave en C++ que se utiliza para definir alias (nombres alternativos) para tipos de datos existentes.
+
+Palabra: typeid
+Traduccion: tipo de identificacion
+Significado: typeid es un operador en C++ que se utiliza para obtener informacion sobre un tipo de datos en tiempo de ejecucion. Puede ser utilizado para determinar el tipo exacto de un objeto o una expresion.
+
+Palabra: typename
+Traduccion: Tipo de nombre
+Significado: typename es una palabra clave en C++ que se utiliza en plantillas (templates) para indicar que un nombre especifico se refiere a un tipo, incluso cuando ese nombre se basa en un tipo dependiente de plantillas.
+
+Palabra: void
+Traduccion: Vacio
+Significado: void es una palabra clave en C++ que se utiliza para indicar que una funcion no devuelve ningun valor.
+
+Palabra: union
+Traduccion: Union
+Significado: union es una palabra clave en C++ que se utiliza para definir una estructura de datos que permite almacenar diferentes tipos de datos en una misma ubicacion de memoria.
+
+Palabra: unsigned
+Traduccion: Sin signo
+Significado: unsigned es una palabra clave en C++ que se utiliza para declarar tipos de datos enteros que no contienen signo, lo que significa que solo pueden almacenar valores no negativos (incluyendo cero).
+
+Palabra: using
+Traduccion: Virtual
+Significado: virtual es una palabra clave en C++ que se utiliza en la definicion de funciones en una clase base para indicar que es una funcion virtual.
+
+Palabra: volatile
+Traduccion: Volatile
+Significado: volatile es una palabra clave en C++ que se utiliza para indicar que una variable puede ser modificada en cualquier momento, incluso si no parece estar siendo modificada en el flujo de control normal del programa.
+
+Palabra: while
+Traduccion: Mientras
+Significado: while es una palabra clave en C++ que se utiliza para crear un bucle while. Un bucle while ejecuta un bloque de codigo mientras una condicion especifica sea verdadera.
+Palabra: exit
+Traduccion: salir
+Significado: terminar una cadena.
+
